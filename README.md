@@ -17,8 +17,6 @@ Category of complaint:  Online and Social Media Related Crime
 
 Sub-Category of complaint Profile Hacking/ Identity Theft
 
-National ID of Victim: NationalId202504272228318852709.png
-
 Approximate Date: 2025-04-27 HH : 06 MM : 26 AM
 
 Delay in reporting: Yes
