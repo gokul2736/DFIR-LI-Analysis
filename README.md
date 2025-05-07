@@ -47,4 +47,4 @@ Binary Hash of File(SHA256) : EB487A888FE719BDCED80F9EA44B344C74A26197BE05ECB499
 
 Binary Hash of File(MD5) : E344C9E28FDE8B08390DAEF402551926
 
-Suspected gmail: CashShaw774@hotmail.com
+Suspected mail: CashShaw774@hotmail.com
